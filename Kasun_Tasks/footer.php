@@ -1,4 +1,4 @@
-</div> <!--newsletter-->
+
 
 <!-- footer -->
 <section id="footer">

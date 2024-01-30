@@ -5,7 +5,7 @@ include 'header.php'; ?>
             <div class="tourPlan text-center">
                 <div class="row">
                     <div class="col">
-                        <h1>EXERSICE 1</h1>
+                        <h1>EXERCISE 1</h1>
                     </div>
                 </div>
                 <div class="container text-left">
@@ -65,7 +65,8 @@ include 'header.php'; ?>
                                     development environment setup and include it as an image in the "ex1.php" file.
                                     <img src="images/24.png" alt="Web Development Environment">
 
-    </div>
-    </div>
-
+    </h3>
+                            </div>
+                        </div>
+                    </div> <!--newsletter-->
 <?php include 'footer.php'; ?>

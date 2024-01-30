@@ -6,7 +6,7 @@ include 'header.php'; ?>
             <div class="tourPlan text-center">
                 <div class="row">
                     <div class="col">
-                        <h1>EXERSICE 2</h1>
+                        <h1>EXERCISE 2</h1>
                     </div>
                 </div>
                 <div class="container text-left">
