@@ -25,8 +25,8 @@
                         <li><a href="ex1.php">Exercise1</a></li>
                         <li><a href="ex2.php">Exercise2</a></li>
                         <li><a href="ex3.php">Exercise3</a></li>
-                        <!--<li><a href="#plan">Packages</a></li>
-                        <li><a href="#services">Services</a></li>
+                        <li><a href="ex4.php">Exercise4</a></li>
+                        <!--<li><a href="#services">Services</a></li>
                         <li><a href="#gallery">Gallery</a></li>
                         <li><a href="#footer">Contact Us</a></li>
                         <li><a href=""><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li> -->
@@ -35,8 +35,8 @@
                         <li class="hideOnMobile"><a href="ex1.php">Exercise1</a></li>   
                         <li class="hideOnMobile"><a href="ex2.php">Exercise2</a></li>
                         <li class="hideOnMobile"><a href="ex3.php">Exercise3</a></li>
-                        <!--<li class="hideOnMobile"><a href="#plan">Packages</a></li>
-                        <li class="hideOnMobile"><a href="#services">Services</a></li>
+                        <li class="hideOnMobile"><a href="ex3.php">Exercise4</a></li>
+                       <!-- <li class="hideOnMobile"><a href="#services">Services</a></li>
                         <li class="hideOnMobile"><a href="#gallery">Gallery</a></li>
                         <li class="hideOnMobile"><a href="#footer">Contact Us</a></li>
                         <li class="hideOnMobile"><a href=""><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li>
