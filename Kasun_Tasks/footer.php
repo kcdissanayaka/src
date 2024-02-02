@@ -4,6 +4,18 @@
 <section id="footer">
     <div class="footer text-center">
         <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+            <?php
+
+            $current_file_name = basename($_SERVER['PHP_SELF']);
+            echo "Current file: " . $current_file_name . "<br>";
+            $file_last_modified = filemtime($current_file_name);
+            echo "Last modified: " . date("Y-m-d H:i:s", $file_last_modified) . " Current file: " . $current_file_name;
+            ?>
+            </div> 
+        </div>
+        <br>
             <div class="row">
                 <div class="col-md-3 text-left">
                     <h4>Want To Take Tour Packages?</h4>
