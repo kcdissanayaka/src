@@ -35,7 +35,7 @@
                         <li class="hideOnMobile"><a href="ex1.php">Exercise1</a></li>   
                         <li class="hideOnMobile"><a href="ex2.php">Exercise2</a></li>
                         <li class="hideOnMobile"><a href="ex3.php">Exercise3</a></li>
-                        <li class="hideOnMobile"><a href="ex3.php">Exercise4</a></li>
+                        <li class="hideOnMobile"><a href="ex4.php">Exercise4</a></li>
                        <!-- <li class="hideOnMobile"><a href="#services">Services</a></li>
                         <li class="hideOnMobile"><a href="#gallery">Gallery</a></li>
                         <li class="hideOnMobile"><a href="#footer">Contact Us</a></li>

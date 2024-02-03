@@ -1,8 +1,8 @@
-<?php 
+    <?php 
      $title ="Exercise 3: Variable, Strings & Operators - Kasun ";
-include 'header.php'; ?>
+    include 'header.php'; ?>
 
-<section id="plan">
+    <section id="plan">
             <div class="tourPlan text-center">
                 <div class="row">
                     <div class="col">
@@ -177,7 +177,8 @@ include 'header.php'; ?>
                        
                          
 
+        </div>
     </div>
-    </div>
+
         
 <?php include 'footer.php'; ?>

@@ -63,9 +63,7 @@ include 'header.php'; ?>
 
                                     <h3>3.4 Take a screenshot that confirms your
                                     development environment setup and include it as an image in the "ex1.php" file.
-                                    <img src="images/24.png" alt="Web Development Environment">
-
-    </h3>
+                                    <img src="images/24.png" alt="Web Development Environment"></h3>
                             </div>
                         </div>
                     </div> <!--newsletter-->
