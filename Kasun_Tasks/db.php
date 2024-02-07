@@ -1,8 +1,8 @@
 <?php
 $servername = "phpsrv-db-1";
-$username   = "lankanmtka";
+$username   = "crud_app";
 $password   = "Abc@112211";
-$dbname     = "lankanmtka";
+$dbname     = "crud_app";
 
 //created a database connection
 $conn = new mysqli($servername,$username,$password,$dbname);
@@ -11,5 +11,6 @@ $conn = new mysqli($servername,$username,$password,$dbname);
 if($conn->connect_error){
     die("connection Failed:". $conn->connect_error);
 }
+echo "Connection to DB Successful";
 
 ?>

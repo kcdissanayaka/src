@@ -26,9 +26,9 @@
                         <li><a href="ex2.php">Exercise2</a></li>
                         <li><a href="ex3.php">Exercise3</a></li>
                         <li><a href="ex4.php">Exercise4</a></li>
-                        <!--<li><a href="#services">Services</a></li>
-                        <li><a href="#gallery">Gallery</a></li>
-                        <li><a href="#footer">Contact Us</a></li>
+                        <li><a href="index.php">Exercise7</a></li>
+                        <li><a href="ex6.php">Exercise7 Reead data</a></li>
+                        <!--<li><a href="#footer">Contact Us</a></li>-->
                         <li><a href=""><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li> -->
                         </ul>
                         <ul>
@@ -36,10 +36,10 @@
                         <li class="hideOnMobile"><a href="ex2.php">Exercise2</a></li>
                         <li class="hideOnMobile"><a href="ex3.php">Exercise3</a></li>
                         <li class="hideOnMobile"><a href="ex4.php">Exercise4</a></li>
-                       <!-- <li class="hideOnMobile"><a href="#services">Services</a></li>
-                        <li class="hideOnMobile"><a href="#gallery">Gallery</a></li>
+                       <li class="hideOnMobile"><a href="#index.php">Exercise7</a></li>
+                        <li class="hideOnMobile"><a href="ex6.php">Exercise7 Reead</a></li>
                         <li class="hideOnMobile"><a href="#footer">Contact Us</a></li>
-                        <li class="hideOnMobile"><a href=""><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li>
+                        <!--<li class="hideOnMobile"><a href=""><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li> -->
                         <li onclick="showSidebar()" class="menu-button"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></a></li> -->
                         </ul>
                     </nav>
