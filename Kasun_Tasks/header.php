@@ -26,7 +26,7 @@
                         <li><a href="ex2.php">Exercise2</a></li>
                         <li><a href="ex3.php">Exercise3</a></li>
                         <li><a href="ex4.php">Exercise4</a></li>
-                        <li><a href="curd/index.php">Exercise7</a></li>
+                        <li><a href="Kasun_Tasks/curd/index.php">Exercise7</a></li>
                         <li><a href="ex6.php">Exercise7 Reead data</a></li>
                         <!--<li><a href="#footer">Contact Us</a></li>-->
                         <li><a href=""><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li> -->

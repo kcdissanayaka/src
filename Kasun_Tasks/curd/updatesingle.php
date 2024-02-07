@@ -1,6 +1,6 @@
 <?php 
     $title ="Exercise 7: Update Data - Kasun ";
-include 'header.php';
+include '../header.php';
 include 'db.php';
 $a = $_GET['id'];
 $result = mysqli_query($conn,"SELECT * FROM studentsinfo WHERE id= '$a'");
@@ -93,4 +93,4 @@ $row= mysqli_fetch_array($result); ?>
                             </div>
                         </div>
                     </div> <!--newsletter-->
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>

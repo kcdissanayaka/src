@@ -57,4 +57,4 @@ include 'db.php'; ?>
                             </div>
                         </div>
                     </div> <!--newsletter-->
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>
