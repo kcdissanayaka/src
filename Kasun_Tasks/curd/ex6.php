@@ -1,6 +1,6 @@
 <?php 
     $title ="Exercise 7: Read Data - Kasun ";
-include 'header.php';
+include '../header.php';
 include 'db.php'; ?>
 
         <section id="plan">

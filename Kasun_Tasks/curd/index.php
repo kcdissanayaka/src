@@ -1,6 +1,6 @@
 <?php 
-    $title ="Exercise 7: Read Data - Kasun ";
-include 'header.php';
+    $title ="Exercise 7: Create Data - Kasun ";
+include '../header.php';
 include 'db.php'; ?>
 
         <section id="plan">
@@ -53,4 +53,4 @@ include 'db.php'; ?>
                             </div>
                         </div>
                     </div> <!--newsletter-->
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>
